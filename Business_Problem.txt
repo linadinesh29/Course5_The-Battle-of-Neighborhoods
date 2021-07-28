@@ -4,7 +4,6 @@ Tamils form the majority of Chennai's population. English is spoken largely by w
 So as part of this project , we will list and visualize all major parts of New Delhi City .
 Questions that can be asked using the above mentioned datasets
 Which places have the best restaurant in Chennai?
-What is best location in Chennai for Chinese Cuisine ?
-Which areas have large number of Chinese Resturant Market ?
-What is best location in Chennai for Chinese Cuisine ?
-Which areas have less number of resturant ?
+What places are have average restaurants in Chennai?
+Which place are suitable for edible person in Chennai city?
+Which place are not suitable for edible person in Chennai city?
